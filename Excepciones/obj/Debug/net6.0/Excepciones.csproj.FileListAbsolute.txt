@@ -1,0 +1,15 @@
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\bin\Debug\net6.0\Excepciones.exe
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\bin\Debug\net6.0\Excepciones.deps.json
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\bin\Debug\net6.0\Excepciones.runtimeconfig.json
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\bin\Debug\net6.0\Excepciones.dll
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\bin\Debug\net6.0\Excepciones.pdb
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\obj\Debug\net6.0\Excepciones.csproj.AssemblyReference.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\obj\Debug\net6.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\obj\Debug\net6.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\obj\Debug\net6.0\Excepciones.AssemblyInfo.cs
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\obj\Debug\net6.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\obj\Debug\net6.0\Excepciones.dll
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\obj\Debug\net6.0\refint\Excepciones.dll
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\obj\Debug\net6.0\Excepciones.pdb
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\obj\Debug\net6.0\Excepciones.genruntimeconfig.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\Excepciones\obj\Debug\net6.0\ref\Excepciones.dll

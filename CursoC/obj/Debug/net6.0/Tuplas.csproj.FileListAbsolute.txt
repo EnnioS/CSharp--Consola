@@ -1,0 +1,15 @@
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\obj\Debug\net6.0\Tuplas.csproj.AssemblyReference.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\obj\Debug\net6.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\obj\Debug\net6.0\Tuplas.AssemblyInfoInputs.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\obj\Debug\net6.0\Tuplas.AssemblyInfo.cs
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\obj\Debug\net6.0\Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\bin\Debug\net6.0\Tuplas.exe
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\bin\Debug\net6.0\Tuplas.deps.json
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\bin\Debug\net6.0\Tuplas.runtimeconfig.json
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\bin\Debug\net6.0\Tuplas.dll
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\bin\Debug\net6.0\Tuplas.pdb
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\obj\Debug\net6.0\Tuplas.dll
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\obj\Debug\net6.0\refint\Tuplas.dll
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\obj\Debug\net6.0\Tuplas.pdb
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\obj\Debug\net6.0\Tuplas.genruntimeconfig.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\CursoC\obj\Debug\net6.0\ref\Tuplas.dll

@@ -1,0 +1,15 @@
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\bin\Debug\net6.0\LinQ.exe
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\bin\Debug\net6.0\LinQ.deps.json
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\bin\Debug\net6.0\LinQ.runtimeconfig.json
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\bin\Debug\net6.0\LinQ.dll
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\bin\Debug\net6.0\LinQ.pdb
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\obj\Debug\net6.0\LinQ.csproj.AssemblyReference.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\obj\Debug\net6.0\LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\obj\Debug\net6.0\LinQ.AssemblyInfoInputs.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\obj\Debug\net6.0\LinQ.AssemblyInfo.cs
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\obj\Debug\net6.0\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\obj\Debug\net6.0\LinQ.dll
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\obj\Debug\net6.0\refint\LinQ.dll
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\obj\Debug\net6.0\LinQ.pdb
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\obj\Debug\net6.0\LinQ.genruntimeconfig.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\LinQ\obj\Debug\net6.0\ref\LinQ.dll

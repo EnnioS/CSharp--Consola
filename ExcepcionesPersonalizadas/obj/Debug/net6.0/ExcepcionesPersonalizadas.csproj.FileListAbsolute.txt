@@ -1,0 +1,15 @@
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.exe
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.deps.json
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.runtimeconfig.json
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.dll
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\bin\Debug\net6.0\ExcepcionesPersonalizadas.pdb
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.csproj.AssemblyReference.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.AssemblyInfo.cs
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.dll
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\obj\Debug\net6.0\refint\ExcepcionesPersonalizadas.dll
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.pdb
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\obj\Debug\net6.0\ExcepcionesPersonalizadas.genruntimeconfig.cache
+C:\Users\ennio\OneDrive\Documentos\Cursos\Udemi\CursoCSharp\CursoC\ExcepcionesPersonalizadas\obj\Debug\net6.0\ref\ExcepcionesPersonalizadas.dll
